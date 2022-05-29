@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973347588920",
+    "project_id": "bright-future-6834f",
+    "storage_bucket": "bright-future-6834f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973347588920:android:bc0ecda4e163bb48968fcd",
+        "android_client_info": {
+          "package_name": "com.coda.brightfuture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973347588920-kmpuvpn2t9lhftti3odg8ft1t3mfccvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWm7V-Kk-jpCeGdIj1SruWhrdwTcpETbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973347588920-kmpuvpn2t9lhftti3odg8ft1t3mfccvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
